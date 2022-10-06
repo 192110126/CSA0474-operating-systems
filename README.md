@@ -1,1 +1,1 @@
-# CSA0474-operaying-system
+# CSA0474-operating-system
